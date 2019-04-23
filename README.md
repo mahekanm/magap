@@ -1,1 +1,1 @@
-magap 
+magap  Processing all file
