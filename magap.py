@@ -1,2 +1,2 @@
 class Magap():
-  pass
+    print('mahekan')
